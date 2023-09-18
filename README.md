@@ -1,1 +1,1 @@
-To run thos project, it is necessary to save the relative structure of the project.
+To run this project, it is necessary to save the relative structure of the project.
