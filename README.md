@@ -1,1 +1,1 @@
-This project was bootstrapped with [Feathers UI](https://feathersui.com/learn/haxe-openfl/).
+To run thos project, it is necessary to save the relative structure of the project.
